@@ -48,7 +48,3 @@ A single workbook with three sheets:
 `auto_grader_v1.py` (270 lines) — core grading and cohort analytics
 `auto_grader_v2.py` (327 lines) — adds knowledge-point tagging and comments
 
-## Notes
-
-This repository holds the English-localised version; the original deployment
-used Chinese-language prompts and generated comments.
